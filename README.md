@@ -54,5 +54,5 @@ Filters for time, categories, and countries are applied to the entire dashboard 
 
 <div id='cau5'/>
   
-## 5. Conclusion
+## 4. Conclusion
 The Logistic and shipment project provides valuable insights into revenue by time, categories and person as well as number of different active, completed and returned shipments.This information can be leveraged by the company to identify seasonal patterns, high-performing product lines, and key customer segments. This knowledge enables targeted marketing efforts, resource allocation, and pricing strategies tailored to maximize profitability. Additionally, tracking the number of active, completed, and returned shipments allows businesses to evaluate the efficiency of their supply chain and fulfillment processes.
